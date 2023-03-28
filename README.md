@@ -4,7 +4,7 @@
 **Christopher Fagan-Maber**: Floor subsystem  
 **Waheeb Hashmi**: Unit testing  
 **Filip Galic**: Sequence Diagrams, Class diagrams, State Machines Diagrams  
-**Yousif Al-Sendi**: Elevator subsystem
+**Yousif Al-Sendi**: Elevator subsystem     
 **Abdurahman Jama**: Scheduler subsystem  
 
 ## Files
