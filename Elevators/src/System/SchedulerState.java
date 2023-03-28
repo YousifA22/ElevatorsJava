@@ -1,0 +1,5 @@
+package System;
+
+public enum SchedulerState {
+	IDLE, RECEIVED_REQUEST, REQUEST_SENT, RESPONSE_RECEIVED, RESPONSE_SENT
+}
