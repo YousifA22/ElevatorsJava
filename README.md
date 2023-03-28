@@ -2,9 +2,9 @@
 
 ## Responsibilities
 **Christopher Fagan-Maber**: Floor subsystem  
-**Waheeb Hashmi**: Elevator subsystem  
+**Waheeb Hashmi**: Unit testing  
 **Filip Galic**: Sequence Diagrams, Class diagrams, State Machines Diagrams  
-**Yousif Al-Sendi**: Unit testing  
+**Yousif Al-Sendi**: Elevator subsystem
 **Abdurahman Jama**: Scheduler subsystem  
 
 ## Files
